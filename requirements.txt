@@ -1,0 +1,5 @@
+google-genai>=2.18.0
+chromadb>=0.4.20
+python-dotenv>=1.0.0
+streamlit>=1.30.0
+scikit-learn>=1.4.0
